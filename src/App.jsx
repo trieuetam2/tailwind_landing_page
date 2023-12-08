@@ -12,7 +12,7 @@ export default function App() {
 
           <a href="#" className="logo text-2xl font-extrabold text-purple-800 block">Landing</a>
 
-          <button className="bg-purple-800 text-white text-base px-20 pt-2 pb-2 whitespace-nowrap">Buy now</button>
+          <button className="bg-purple-900 text-white text-base px-20 pt-2 pb-2 whitespace-nowrap">Buy now</button>
         </header>
 
         <section className="pt-96">
